@@ -538,13 +538,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 13600000,
-              "likes": 67200000,
+              "likes": 67300000,
               "userId": "6761177948009956358",
               "secUid": "MS4wLjABAAAA0YGF2V70cjwyaZwFmztd3l_JeXtxc387kexLBsfwR3ir56bR1f_uEM6GmvNObVoR",
               "relation": 0,
               "video": 108,
               "following": 0,
-              "heart": 67200000,
+              "heart": 67300000,
               "digg": 93
             }
           }
@@ -838,14 +838,14 @@
             "type": 3,
             "cover": "https://p19-common-sign.tiktokcdn-us.com/musically-maliva-obj/f124f598c19b8b7931e6f4837c4982e2.jpeg~tplv-tiktokx-origin.image?dr=9627&x-expires=1769893200&x-signature=18FxgdE56tWOwhBmWnCj8lMt918%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast8",
             "title": "#toppicks",
-            "subTitle": "447M views",
+            "subTitle": "447.1M views",
             "description": "Good quality at good prices🌟\nAll creator-tested, shopper-approved, you’ll actually love.",
             "link": "/tag/toppicks",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 447000000,
+              "views": 447100000,
               "challengeId": "475808",
               "challengeName": "toppicks"
             }
@@ -1103,7 +1103,7 @@
             "link": "/music/Afterglow-6907566405198841857",
             "extraInfo": {
               "musicId": "6907566405198841857",
-              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/e167d044a16d40a5a61cb2ff86e6c6ce",
+              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/e167d044a16d40a5a61cb2ff86e6c6ce",
               "posts": 216200
             }
           }
@@ -1136,13 +1136,13 @@
             "keyToken": "",
             "cover": "https://p16-common.tiktokcdn-us.com/tos-alisg-v-2774/7af41feeb9d8449094a0e6c437e87db5~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=81f88b70&idc=useast8",
             "title": "Mayonaka no Door 〜 Stay with Me",
-            "subTitle": "462.1K videos",
+            "subTitle": "462K videos",
             "description": "Miki Matsubara",
             "link": "/music/Mayonaka-no-Door-〜-Stay-with-Me-6878744350931634950",
             "extraInfo": {
               "musicId": "6878744350931634950",
               "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oIDD6GTCeh5DaP8zXfUEb5FgqPAbpM05jVeIkn",
-              "posts": 462100
+              "posts": 462000
             }
           }
         }
