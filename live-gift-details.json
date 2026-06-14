@@ -26,6 +26,19 @@
     "source": 1
   },
   {
+    "id": 15232,
+    "name": "You're awesome",
+    "describe": "sent You're awesome",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/e9cafce8279220ed26016a71076d6a8a.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 1
+  },
+  {
     "id": 15231,
     "name": "Love you so much",
     "describe": "sent Love you so much",
@@ -46,19 +59,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/68c21ef420f49b87543de354b2e30b8d.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 1
-  },
-  {
-    "id": 15232,
-    "name": "You're awesome",
-    "describe": "sent You're awesome",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/e9cafce8279220ed26016a71076d6a8a.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -91,13 +91,13 @@
     "source": 1
   },
   {
-    "id": 7832,
-    "name": "Blow a kiss",
-    "describe": "sent Blow a kiss",
+    "id": 15578,
+    "name": "Guardian Wings",
+    "describe": "sent Guardian Wings",
     "diamond_count": 1,
     "image": {
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/cdb55940740d5c83879b2934f9a7d08e~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/37e3125552d8c8f4f4e4ecb2d8a13f1d.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -247,13 +247,13 @@
     "source": 1
   },
   {
-    "id": 8267,
-    "name": "Good Evening",
-    "describe": "sent Good Evening",
+    "id": 8268,
+    "name": "Good Night",
+    "describe": "sent Good Night",
     "diamond_count": 399,
     "image": {
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/0015a756ff783f37a2cf3b5d634b3cd6~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/b7b55087141bd5f965eb31a99a5f157b~tplv-obj.webp"
       ]
     },
     "type": 2,
@@ -364,19 +364,6 @@
     "source": 1
   },
   {
-    "id": 15578,
-    "name": "Guardian Wings",
-    "describe": "sent Guardian Wings",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/37e3125552d8c8f4f4e4ecb2d8a13f1d.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 1
-  },
-  {
     "id": 14785,
     "name": "Morning Bloom",
     "describe": "sent Morning Bloom",
@@ -423,6 +410,19 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/644f6029df42ac078e6f13de19c6640c.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 1
+  },
+  {
+    "id": 7832,
+    "name": "Blow a kiss",
+    "describe": "sent Blow a kiss",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/cdb55940740d5c83879b2934f9a7d08e~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -5577,292 +5577,6 @@
     "source": 1
   },
   {
-    "id": 19068,
-    "name": "League Trophy",
-    "describe": "sent League Trophy",
-    "diamond_count": 599,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/fe5bf1d97adafcdc675222a9facfe6ee.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 54726,
-    "name": "Surprise Baby Mob",
-    "describe": "sent Surprise Baby Mob",
-    "diamond_count": 2999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/f074f1f73a40902e6087c6ccc747b88f.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 9532,
-    "name": "Shine Bright",
-    "describe": "sent Shine Bright",
-    "diamond_count": 4088,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/d4234483e15952a992ae58a088291be1.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 5648,
-    "name": "Duit Raya",
-    "describe": "sent Duit Raya",
-    "diamond_count": 5,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/af543ee556c1c3d3e2610a24d8d02c94~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 1
-  },
-  {
-    "id": 60077,
-    "name": "FANDOM Fan",
-    "describe": "sent FANDOM Fan",
-    "diamond_count": 10,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/cb5bc2512623f0454156429f7088973b.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 1
-  },
-  {
-    "id": 17667,
-    "name": "Side by Side",
-    "describe": "sent Side by Side",
-    "diamond_count": 199,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/14b52e1933131d94a2634acf1625559d.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 59994,
-    "name": "Crowd Cheering",
-    "describe": "sent Crowd Cheering",
-    "diamond_count": 5000,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/f8801f079c04aa58e0e732340f393740.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 115543,
-    "name": "LIVE Ranking Ticket",
-    "describe": "sent LIVE Ranking Ticket",
-    "diamond_count": 10,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/4c307f79c6296df713c00c31e044e161.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 1
-  },
-  {
-    "id": 18792,
-    "name": "Golden Gallop",
-    "describe": "sent Golden Gallop",
-    "diamond_count": 15000,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/ec26ec5a61ad0490b70e31d6dbe128bc.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 9101,
-    "name": "TikTok Universe",
-    "describe": "sent TikTok Universe",
-    "diamond_count": 44999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/8f471afbcebfda3841a6cc515e381f58~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 12110,
-    "name": "Manifesting",
-    "describe": "sent Manifesting",
-    "diamond_count": 500,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/ca11566ae5a41ec8971cc00b51f78dac.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 11491,
-    "name": "Giraffe",
-    "describe": "sent Giraffe",
-    "diamond_count": 1000,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/4e2c021bc1ec2e83448ddc91c6123caf.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 14534,
-    "name": "Raya Gift Card",
-    "describe": "sent Raya Gift Card",
-    "diamond_count": 1500,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/b83e4e9e80e501617b6d01582109c00f.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 18790,
-    "name": "Doll New Year Greeting",
-    "describe": "sent Doll New Year Greeting",
-    "diamond_count": 1999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/5ec37123593a6fd309cee3ddc1f93de6.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 18789,
-    "name": "Lucky Pony",
-    "describe": "sent Lucky Pony",
-    "diamond_count": 10,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/8d005c54c988a6353777ce9c06cfb9cc.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 1
-  },
-  {
-    "id": 55700,
-    "name": "EID Gift Box",
-    "describe": "sent EID Gift Box",
-    "diamond_count": 299,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/ec3bedf704efdbbcfdfd36a99c98d94a.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 8503,
-    "name": "Falcon",
-    "describe": "sent Falcon",
-    "diamond_count": 10999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/6026505eea9b9bce071dd699253abf6a~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 53761,
-    "name": "Arabian Cheetah",
-    "describe": "sent Arabian Cheetah",
-    "diamond_count": 15000,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/a9b1ebb5262788aa8c5e92bd13392c83.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 18337,
-    "name": "Invincible Hammer",
-    "describe": "sent Invincible Hammer",
-    "diamond_count": 14999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/52d8c2e23c1800e85ad621e431220724.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 115549,
-    "name": "Red Devil Corgi",
-    "describe": "sent Red Devil Corgi",
-    "diamond_count": 20000,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/28b39c9cbca8643bc31776dfed95ec94.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 18299,
-    "name": "Viking Hammer",
-    "describe": "sent Viking Hammer",
-    "diamond_count": 1500,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/5b95101816bc9f61f65bd265641ef4d6.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 8603,
-    "name": "Leopard",
-    "describe": "sent Leopard",
-    "diamond_count": 15000,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/3d837cfcac70929abc0f45e4dc7cee04.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
     "id": 16275,
     "name": "Suitcase",
     "describe": "sent Suitcase",
@@ -5870,32 +5584,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/ebb5bcf8d8fe3f8975eeb76b37ddbd77.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 5566,
-    "name": "Mishka Bear",
-    "describe": "sent Mishka Bear",
-    "diamond_count": 100,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/d78ed6496fd57286b42ac033acbee299.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 12944,
-    "name": "Dynamic Music",
-    "describe": "sent Dynamic Music",
-    "diamond_count": 4888,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/001c4ea85c78e9b35b5ae3228686a24c.png~tplv-obj.webp"
       ]
     },
     "type": 2,
@@ -5915,39 +5603,156 @@
     "source": 1
   },
   {
-    "id": 14532,
-    "name": "Fully Bloomed Sakura",
-    "describe": "sent Fully Bloomed Sakura",
-    "diamond_count": 599,
+    "id": 16694,
+    "name": "XXXL Flowers",
+    "describe": "sent XXXL Flowers",
+    "diamond_count": 500,
     "image": {
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/138d5ae217170678f87d632d1b3649e6.png~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/f1ead695e8281b7387e40d48fc6b1fb0.png~tplv-obj.webp"
       ]
     },
     "type": 2,
     "source": 1
   },
   {
-    "id": 19131,
-    "name": "Chocolate",
-    "describe": "sent Chocolate",
-    "diamond_count": 10,
+    "id": 115549,
+    "name": "Red Devil Corgi",
+    "describe": "sent Red Devil Corgi",
+    "diamond_count": 20000,
     "image": {
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/8e8bfebfad922eed81f4a31a114fc0d3.png~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/28b39c9cbca8643bc31776dfed95ec94.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 54725,
+    "name": "Baby Chicks",
+    "describe": "sent Baby Chicks",
+    "diamond_count": 500,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/f1b0b043890f33ba610f2b30fffad49f.png~tplv-obj.webp"
+      ]
+    },
+    "type": 4,
+    "source": 1
+  },
+  {
+    "id": 9532,
+    "name": "Shine Bright",
+    "describe": "sent Shine Bright",
+    "diamond_count": 4088,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/d4234483e15952a992ae58a088291be1.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 18338,
+    "name": "Cyber Roar",
+    "describe": "sent Cyber Roar",
+    "diamond_count": 25999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/e36175fdd1bdcda3716a857a509042b2.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 134381,
+    "name": "Diamond Gun",
+    "describe": "sent Diamond Gun",
+    "diamond_count": 5000,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/651e705c26b704d03bc9c06d841808f1.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 115518,
+    "name": "Dream Ride",
+    "describe": "sent Dream Ride",
+    "diamond_count": 15000,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/bce42fbffa8a0a0ebe0597bc0bf7c1f7.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 54726,
+    "name": "Surprise Baby Mob",
+    "describe": "sent Surprise Baby Mob",
+    "diamond_count": 2999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/f074f1f73a40902e6087c6ccc747b88f.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 14544,
+    "name": "Go Home",
+    "describe": "sent Go Home",
+    "diamond_count": 3999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/fa586ca53d45cd656d4df2f4624da2a0.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 19132,
+    "name": "Rose Bear",
+    "describe": "sent Rose Bear",
+    "diamond_count": 214,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/adf6e9bd6219788151edb9fa026a0481.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 5648,
+    "name": "Duit Raya",
+    "describe": "sent Duit Raya",
+    "diamond_count": 5,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/af543ee556c1c3d3e2610a24d8d02c94~tplv-obj.webp"
       ]
     },
     "type": 1,
     "source": 1
   },
   {
-    "id": 54540,
-    "name": "Undersea Kingdom",
-    "describe": "sent Undersea Kingdom",
-    "diamond_count": 25999,
+    "id": 14534,
+    "name": "Raya Gift Card",
+    "describe": "sent Raya Gift Card",
+    "diamond_count": 1500,
     "image": {
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/13f9ea9d3798f67f6d55cc612c152338.png~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/b83e4e9e80e501617b6d01582109c00f.png~tplv-obj.webp"
       ]
     },
     "type": 2,
@@ -5967,6 +5772,240 @@
     "source": 1
   },
   {
+    "id": 115513,
+    "name": "Rain Doll",
+    "describe": "sent Rain Doll",
+    "diamond_count": 299,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/ad91c7acb6b745d37739d326cb2e0c61.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 19131,
+    "name": "Chocolate",
+    "describe": "sent Chocolate",
+    "diamond_count": 10,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/8e8bfebfad922eed81f4a31a114fc0d3.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 1
+  },
+  {
+    "id": 115548,
+    "name": "LIVE Ranking Party",
+    "describe": "sent LIVE Ranking Party",
+    "diamond_count": 3999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/018a62473f7a3989a19ced0af369a99e.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 18339,
+    "name": "Julius the Champion",
+    "describe": "sent Julius the Champion",
+    "diamond_count": 43999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/78260c7f1dac82bd979279b5e04bffeb.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 9355,
+    "name": "So Cute",
+    "describe": "sent So Cute",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/d40d31241efcf57c630e894bb3007b8a.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 1
+  },
+  {
+    "id": 59589,
+    "name": "Music Burst",
+    "describe": "sent Music Burst",
+    "diamond_count": 999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/695bef7983e7a16e2fe1d130cc1be8bc.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 115520,
+    "name": "Stage of ring",
+    "describe": "sent Stage of ring",
+    "diamond_count": 4999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/fc5601ce67877245f5a322fb7df64bec.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 59994,
+    "name": "Crowd Cheering",
+    "describe": "sent Crowd Cheering",
+    "diamond_count": 5000,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/f8801f079c04aa58e0e732340f393740.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 12892,
+    "name": "Crocodile",
+    "describe": "sent Crocodile",
+    "diamond_count": 15000,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/68d0ab787e32a0d3229dcbf1cfe6e250.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 54727,
+    "name": "Chick Stampede",
+    "describe": "sent Chick Stampede",
+    "diamond_count": 6000,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/33798b669e13c98ea076ed8eaabc8810.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 15205,
+    "name": "Flamingo Floaty",
+    "describe": "sent Flamingo Floaty",
+    "diamond_count": 999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/66b00f97a576cb9b63d981a079ebefb1.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 14532,
+    "name": "Fully Bloomed Sakura",
+    "describe": "sent Fully Bloomed Sakura",
+    "diamond_count": 599,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/138d5ae217170678f87d632d1b3649e6.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 54724,
+    "name": "Creeper",
+    "describe": "sent Creeper",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/d686d45bd66e16b0aca8b0e5eb52a977.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 1
+  },
+  {
+    "id": 19133,
+    "name": "Love Flight",
+    "describe": "sent Love Flight",
+    "diamond_count": 800,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/ed700c6f77e12689ca0e8f9b3bd90982.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 115510,
+    "name": "umbrella",
+    "describe": "sent umbrella",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/ba0dd88772b3aef05a9089db317553a2.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 1
+  },
+  {
+    "id": 8603,
+    "name": "Leopard",
+    "describe": "sent Leopard",
+    "diamond_count": 15000,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/3d837cfcac70929abc0f45e4dc7cee04.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 53761,
+    "name": "Arabian Cheetah",
+    "describe": "sent Arabian Cheetah",
+    "diamond_count": 15000,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/a9b1ebb5262788aa8c5e92bd13392c83.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 10588,
+    "name": "Diamond Gun",
+    "describe": "sent Diamond Gun",
+    "diamond_count": 5000,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/651e705c26b704d03bc9c06d841808f1.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
     "id": 17589,
     "name": "Side by Side",
     "describe": "sent Side by Side",
@@ -5977,6 +6016,331 @@
       ]
     },
     "type": 2,
+    "source": 1
+  },
+  {
+    "id": 18337,
+    "name": "Invincible Hammer",
+    "describe": "sent Invincible Hammer",
+    "diamond_count": 14999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/52d8c2e23c1800e85ad621e431220724.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 18790,
+    "name": "Doll New Year Greeting",
+    "describe": "sent Doll New Year Greeting",
+    "diamond_count": 1999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/5ec37123593a6fd309cee3ddc1f93de6.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 60076,
+    "name": "Ultimate FANDOM",
+    "describe": "sent Ultimate FANDOM",
+    "diamond_count": 8000,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/d14912141985070526e227375d4806f5.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 134396,
+    "name": "Zeus",
+    "describe": "sent Zeus",
+    "diamond_count": 34000,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/01793f9afe15f5037a9dc10435c37c85.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 17667,
+    "name": "Side by Side",
+    "describe": "sent Side by Side",
+    "diamond_count": 199,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/14b52e1933131d94a2634acf1625559d.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 18299,
+    "name": "Viking Hammer",
+    "describe": "sent Viking Hammer",
+    "diamond_count": 1500,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/5b95101816bc9f61f65bd265641ef4d6.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 115543,
+    "name": "LIVE Ranking Ticket",
+    "describe": "sent LIVE Ranking Ticket",
+    "diamond_count": 10,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/4c307f79c6296df713c00c31e044e161.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 1
+  },
+  {
+    "id": 18791,
+    "name": "Ring Of Honor-Cube",
+    "describe": "sent Ring Of Honor-Cube",
+    "diamond_count": 2999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/bb5cbc1ff2bf4370873a1fe98e2b6b50.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 19067,
+    "name": "League Countdown",
+    "describe": "sent League Countdown",
+    "diamond_count": 199,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/936d94c2e9267c3fa099127fba4e30a2.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 19068,
+    "name": "League Trophy",
+    "describe": "sent League Trophy",
+    "diamond_count": 599,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/fe5bf1d97adafcdc675222a9facfe6ee.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 10065,
+    "name": "Gorilla",
+    "describe": "sent Gorilla",
+    "diamond_count": 30000,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/57619959bddbe35d8c684750a1d41d62.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 12110,
+    "name": "Manifesting",
+    "describe": "sent Manifesting",
+    "diamond_count": 500,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/ca11566ae5a41ec8971cc00b51f78dac.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 14562,
+    "name": "Battle Champion",
+    "describe": "sent Battle Champion",
+    "diamond_count": 15000,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/adc6156cc7bfb49f336c6f329ebc2830.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 60077,
+    "name": "FANDOM Fan",
+    "describe": "sent FANDOM Fan",
+    "diamond_count": 10,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/cb5bc2512623f0454156429f7088973b.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 1
+  },
+  {
+    "id": 5566,
+    "name": "Mishka Bear",
+    "describe": "sent Mishka Bear",
+    "diamond_count": 100,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/d78ed6496fd57286b42ac033acbee299.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 18792,
+    "name": "Golden Gallop",
+    "describe": "sent Golden Gallop",
+    "diamond_count": 15000,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/ec26ec5a61ad0490b70e31d6dbe128bc.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 8503,
+    "name": "Falcon",
+    "describe": "sent Falcon",
+    "diamond_count": 10999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/6026505eea9b9bce071dd699253abf6a~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 9101,
+    "name": "TikTok Universe",
+    "describe": "sent TikTok Universe",
+    "diamond_count": 44999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/8f471afbcebfda3841a6cc515e381f58~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 56080,
+    "name": "Surprise Baby Mob",
+    "describe": "sent Surprise Baby Mob",
+    "diamond_count": 2999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/abd6c56f59d4f7e097fd7dcd32995ef6.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 56855,
+    "name": "Festival Bracelet",
+    "describe": "sent Festival Bracelet",
+    "diamond_count": 349,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/6faf18511ee366ec80c955d8e6b4153a.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 62675,
+    "name": "Sing Together",
+    "describe": "sent Sing Together",
+    "diamond_count": 10,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/df5ff4cb7fd148c81580dbe2b4a6b8b1.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 1
+  },
+  {
+    "id": 54540,
+    "name": "Undersea Kingdom",
+    "describe": "sent Undersea Kingdom",
+    "diamond_count": 25999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/13f9ea9d3798f67f6d55cc612c152338.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 54541,
+    "name": "Legend Marcellus ",
+    "describe": "sent Legend Marcellus",
+    "diamond_count": 42999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/2493534c2e9d914e6b503c3a836e72e9.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 115516,
+    "name": "Hydrangea Sea",
+    "describe": "sent Hydrangea Sea",
+    "diamond_count": 1299,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/0e821f9f9a67f7299e6939b7823d8ab6.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 6093,
+    "name": "Football",
+    "describe": "sent Football",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/c043cd9e418f13017793ddf6e0c6ee99~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
     "source": 1
   },
   {
@@ -5993,29 +6357,107 @@
     "source": 1
   },
   {
-    "id": 115518,
-    "name": "Dream Ride",
-    "describe": "sent Dream Ride",
-    "diamond_count": 15000,
+    "id": 8624,
+    "name": "Zeus",
+    "describe": "sent Zeus",
+    "diamond_count": 34000,
     "image": {
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/bce42fbffa8a0a0ebe0597bc0bf7c1f7.png~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/01793f9afe15f5037a9dc10435c37c85.png~tplv-obj.webp"
       ]
     },
     "type": 2,
     "source": 1
   },
   {
-    "id": 54725,
-    "name": "Baby Chicks",
-    "describe": "sent Baby Chicks",
-    "diamond_count": 500,
+    "id": 55700,
+    "name": "EID Gift Box",
+    "describe": "sent EID Gift Box",
+    "diamond_count": 299,
     "image": {
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/f1b0b043890f33ba610f2b30fffad49f.png~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/ec3bedf704efdbbcfdfd36a99c98d94a.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 10716,
+    "name": "Blow a kiss",
+    "describe": "sent Blow a kiss",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/cdb55940740d5c83879b2934f9a7d08e.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 1
+  },
+  {
+    "id": 12944,
+    "name": "Dynamic Music",
+    "describe": "sent Dynamic Music",
+    "diamond_count": 4888,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/001c4ea85c78e9b35b5ae3228686a24c.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 14543,
+    "name": "Congratulations",
+    "describe": "sent Congratulations",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/8e73d843b23a9e68f8d3cf8c46fc0bee.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 1
+  },
+  {
+    "id": 19134,
+    "name": "Paris",
+    "describe": "sent Paris",
+    "diamond_count": 15000,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/f7a810a338bc0e69709badd3a596559c.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 16527,
+    "name": "LIVE Ranking Crown",
+    "describe": "sent LIVE Ranking Crown",
+    "diamond_count": 299,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/1bb7f00a3adeb932e5f5518d723fedb5.png~tplv-obj.webp"
       ]
     },
     "type": 4,
+    "source": 1
+  },
+  {
+    "id": 10423,
+    "name": "Club Music",
+    "describe": "sent Club Music",
+    "diamond_count": 2000,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/610d14c4f6e25a5ae4c8dfc0e82ec909.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
     "source": 1
   },
   {
@@ -6045,117 +6487,52 @@
     "source": 1
   },
   {
-    "id": 18339,
-    "name": "Julius the Champion",
-    "describe": "sent Julius the Champion",
-    "diamond_count": 43999,
+    "id": 54539,
+    "name": "Tidecaller Trident",
+    "describe": "sent Tidecaller Trident",
+    "diamond_count": 14999,
     "image": {
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/78260c7f1dac82bd979279b5e04bffeb.png~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/7bb5606841ee8deaec981c85587ab2be.png~tplv-obj.webp"
       ]
     },
     "type": 2,
     "source": 1
   },
   {
-    "id": 134396,
-    "name": "Zeus",
-    "describe": "sent Zeus",
-    "diamond_count": 34000,
+    "id": 18789,
+    "name": "Lucky Pony",
+    "describe": "sent Lucky Pony",
+    "diamond_count": 10,
     "image": {
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/01793f9afe15f5037a9dc10435c37c85.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 10423,
-    "name": "Club Music",
-    "describe": "sent Club Music",
-    "diamond_count": 2000,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/610d14c4f6e25a5ae4c8dfc0e82ec909.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 56080,
-    "name": "Surprise Baby Mob",
-    "describe": "sent Surprise Baby Mob",
-    "diamond_count": 2999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/abd6c56f59d4f7e097fd7dcd32995ef6.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 19133,
-    "name": "Love Flight",
-    "describe": "sent Love Flight",
-    "diamond_count": 800,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/ed700c6f77e12689ca0e8f9b3bd90982.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 14543,
-    "name": "Congratulations",
-    "describe": "sent Congratulations",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/8e73d843b23a9e68f8d3cf8c46fc0bee.png~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/8d005c54c988a6353777ce9c06cfb9cc.png~tplv-obj.webp"
       ]
     },
     "type": 1,
     "source": 1
   },
   {
-    "id": 54727,
-    "name": "Chick Stampede",
-    "describe": "sent Chick Stampede",
-    "diamond_count": 6000,
+    "id": 19071,
+    "name": "League Fandom",
+    "describe": "sent League Fandom",
+    "diamond_count": 5000,
     "image": {
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/33798b669e13c98ea076ed8eaabc8810.png~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/b49db707b60b5e71e7fc2335a5d93b22.png~tplv-obj.webp"
       ]
     },
     "type": 2,
     "source": 1
   },
   {
-    "id": 60076,
-    "name": "Ultimate FANDOM",
-    "describe": "sent Ultimate FANDOM",
-    "diamond_count": 8000,
+    "id": 11491,
+    "name": "Giraffe",
+    "describe": "sent Giraffe",
+    "diamond_count": 1000,
     "image": {
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/d14912141985070526e227375d4806f5.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 59589,
-    "name": "Music Burst",
-    "describe": "sent Music Burst",
-    "diamond_count": 999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/695bef7983e7a16e2fe1d130cc1be8bc.png~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/4e2c021bc1ec2e83448ddc91c6123caf.png~tplv-obj.webp"
       ]
     },
     "type": 2,
@@ -6175,253 +6552,6 @@
     "source": 1
   },
   {
-    "id": 19071,
-    "name": "League Fandom",
-    "describe": "sent League Fandom",
-    "diamond_count": 5000,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/b49db707b60b5e71e7fc2335a5d93b22.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 8624,
-    "name": "Zeus",
-    "describe": "sent Zeus",
-    "diamond_count": 34000,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/01793f9afe15f5037a9dc10435c37c85.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 18338,
-    "name": "Cyber Roar",
-    "describe": "sent Cyber Roar",
-    "diamond_count": 25999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/e36175fdd1bdcda3716a857a509042b2.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 19067,
-    "name": "League Countdown",
-    "describe": "sent League Countdown",
-    "diamond_count": 199,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/936d94c2e9267c3fa099127fba4e30a2.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 10065,
-    "name": "Gorilla",
-    "describe": "sent Gorilla",
-    "diamond_count": 30000,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/57619959bddbe35d8c684750a1d41d62.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 9355,
-    "name": "So Cute",
-    "describe": "sent So Cute",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/d40d31241efcf57c630e894bb3007b8a.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 1
-  },
-  {
-    "id": 115516,
-    "name": "Hydrangea Sea",
-    "describe": "sent Hydrangea Sea",
-    "diamond_count": 1299,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/0e821f9f9a67f7299e6939b7823d8ab6.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 16694,
-    "name": "XXXL Flowers",
-    "describe": "sent XXXL Flowers",
-    "diamond_count": 500,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/f1ead695e8281b7387e40d48fc6b1fb0.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 15205,
-    "name": "Flamingo Floaty",
-    "describe": "sent Flamingo Floaty",
-    "diamond_count": 999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/66b00f97a576cb9b63d981a079ebefb1.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 10716,
-    "name": "Blow a kiss",
-    "describe": "sent Blow a kiss",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/cdb55940740d5c83879b2934f9a7d08e.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 1
-  },
-  {
-    "id": 115513,
-    "name": "Rain Doll",
-    "describe": "sent Rain Doll",
-    "diamond_count": 299,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/ad91c7acb6b745d37739d326cb2e0c61.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 19132,
-    "name": "Rose Bear",
-    "describe": "sent Rose Bear",
-    "diamond_count": 214,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/adf6e9bd6219788151edb9fa026a0481.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 19134,
-    "name": "Paris",
-    "describe": "sent Paris",
-    "diamond_count": 15000,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/f7a810a338bc0e69709badd3a596559c.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 14544,
-    "name": "Go Home",
-    "describe": "sent Go Home",
-    "diamond_count": 3999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/fa586ca53d45cd656d4df2f4624da2a0.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 6093,
-    "name": "Football",
-    "describe": "sent Football",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/c043cd9e418f13017793ddf6e0c6ee99~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 1
-  },
-  {
-    "id": 12892,
-    "name": "Crocodile",
-    "describe": "sent Crocodile",
-    "diamond_count": 15000,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/68d0ab787e32a0d3229dcbf1cfe6e250.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 16527,
-    "name": "LIVE Ranking Crown",
-    "describe": "sent LIVE Ranking Crown",
-    "diamond_count": 299,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/1bb7f00a3adeb932e5f5518d723fedb5.png~tplv-obj.webp"
-      ]
-    },
-    "type": 4,
-    "source": 1
-  },
-  {
-    "id": 115548,
-    "name": "LIVE Ranking Party",
-    "describe": "sent LIVE Ranking Party",
-    "diamond_count": 3999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/018a62473f7a3989a19ced0af369a99e.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 115520,
-    "name": "Stage of ring",
-    "describe": "sent Stage of ring",
-    "diamond_count": 4999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/fc5601ce67877245f5a322fb7df64bec.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
     "id": 8889,
     "name": "Pink Dream",
     "describe": "sent Pink Dream",
@@ -6429,136 +6559,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/0de49ea9a79e65307c674596da517792.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 134381,
-    "name": "Diamond Gun",
-    "describe": "sent Diamond Gun",
-    "diamond_count": 5000,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/651e705c26b704d03bc9c06d841808f1.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 62675,
-    "name": "Sing Together",
-    "describe": "sent Sing Together",
-    "diamond_count": 10,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/df5ff4cb7fd148c81580dbe2b4a6b8b1.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 1
-  },
-  {
-    "id": 54541,
-    "name": "Legend Marcellus ",
-    "describe": "sent Legend Marcellus",
-    "diamond_count": 42999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/2493534c2e9d914e6b503c3a836e72e9.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 14562,
-    "name": "Battle Champion",
-    "describe": "sent Battle Champion",
-    "diamond_count": 15000,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/adc6156cc7bfb49f336c6f329ebc2830.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 54539,
-    "name": "Tidecaller Trident",
-    "describe": "sent Tidecaller Trident",
-    "diamond_count": 14999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/7bb5606841ee8deaec981c85587ab2be.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 18791,
-    "name": "Ring Of Honor-Cube",
-    "describe": "sent Ring Of Honor-Cube",
-    "diamond_count": 2999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/bb5cbc1ff2bf4370873a1fe98e2b6b50.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 10588,
-    "name": "Diamond Gun",
-    "describe": "sent Diamond Gun",
-    "diamond_count": 5000,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/651e705c26b704d03bc9c06d841808f1.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 115510,
-    "name": "umbrella",
-    "describe": "sent umbrella",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/ba0dd88772b3aef05a9089db317553a2.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 1
-  },
-  {
-    "id": 54724,
-    "name": "Creeper",
-    "describe": "sent Creeper",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/d686d45bd66e16b0aca8b0e5eb52a977.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 1
-  },
-  {
-    "id": 56855,
-    "name": "Festival Bracelet",
-    "describe": "sent Festival Bracelet",
-    "diamond_count": 349,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/6faf18511ee366ec80c955d8e6b4153a.png~tplv-obj.webp"
       ]
     },
     "type": 2,
@@ -8448,97 +8448,6 @@
     },
     "type": 2,
     "source": 1
-  },
-  {
-    "id": 162103,
-    "name": "𝓛 𝓙 𝓟 ",
-    "describe": "sent 𝓛 𝓙 𝓟",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776449809438_1.a90dae2e84345637d2e265dc5ae499c8.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 28402,
-    "name": "Fluffy Rage",
-    "describe": "sent Fluffy Rage",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1767766228205_0.a4b2bdf412ff2a05a14f95bd11246337.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 78726,
-    "name": "Saad salute",
-    "describe": "sent Saad salute",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775793575141_0.50b06827413aba6782780f28fdc928a2.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 187927,
-    "name": "Attic",
-    "describe": "sent Attic",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775858387506_0.a2c98f663d2929f0cb2ed27ae1a31ff4.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 82802,
-    "name": "Star Fam",
-    "describe": "sent Star Fam",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775795974941_1.195d928459e19192da32464502a49813.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 149141,
-    "name": "BUBBLES",
-    "describe": "sent BUBBLES",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776047574675_1.3514b66053d5e296238f849376036642.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 134214,
-    "name": "Moo Berry",
-    "describe": "sent Moo Berry",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776332157604_0.b3d0b516659a96a05a87aa8d568e32ec.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
   },
   {
     "id": 37841,
@@ -12610,19 +12519,6 @@
     "source": 2
   },
   {
-    "id": 89859,
-    "name": "Gator Gains",
-    "describe": "sent Gator Gains",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775650553830_0.dc32b613de94849d5218e2567788a82a.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 144722,
     "name": "Faith Grip",
     "describe": "sent Faith Grip",
@@ -12708,19 +12604,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776484592829_0.e1b005a20e03fe65bb599e9fa9c587be.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 129772,
-    "name": "MAX2D GAM1NG",
-    "describe": "sent MAX2D GAM1NG",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776047350754_0.a8015be6d3a197482f70f131876fcc65.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -13748,19 +13631,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775653334540_0.b69cd387cd8ba488435ad839fd6e5904.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 149468,
-    "name": "Cupcake Karen",
-    "describe": "sent Cupcake Karen",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776467207584_1.e20729fb75e68acc2c106127ac4ba8c4.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -15938,19 +15808,6 @@
     "source": 2
   },
   {
-    "id": 176754,
-    "name": "Cryverse",
-    "describe": "sent Cryverse",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776047197363_0.f27f1329f1ccbedfb5479ba4cf9d1ce7.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 24913,
     "name": "Mustache Hype",
     "describe": "sent Mustache Hype",
@@ -16010,19 +15867,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776454187364_1.07978afbbb9574e4cea6a5a7c6820ce1.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 41364,
-    "name": "Bomb Beanie",
-    "describe": "sent Bomb Beanie",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1769396136621_0.aa614db8f34dff60f0ab866668db39a1.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -17134,19 +16978,6 @@
     "source": 2
   },
   {
-    "id": 175801,
-    "name": "Isaac Lean",
-    "describe": "sent Isaac Lean",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776047361220_0.994fc6c4daf2c4b4ad0b15f6dcb39250.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 47379,
     "name": "SkwerlyCo Squirrel",
     "describe": "sent SkwerlyCo Squirrel",
@@ -17180,19 +17011,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776329110933_1.6b4e1bec317c163baf1c92a61e9e424d.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 31413,
-    "name": "Pinkey ",
-    "describe": "sent Pinkey",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1767849725504_0.1f0cc5b3439162102dcf31afea50b088.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -17381,19 +17199,6 @@
     "source": 2
   },
   {
-    "id": 103673,
-    "name": "Vampy",
-    "describe": "sent Vampy",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776080221398_1.81c16c6d7754a225eb89a324d5b8c582.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 126016,
     "name": "FoxMan Scribble",
     "describe": "sent FoxMan Scribble",
@@ -17420,19 +17225,6 @@
     "source": 2
   },
   {
-    "id": 144048,
-    "name": "Bonnet Treyveon",
-    "describe": "sent Bonnet Treyveon",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776521417582_0.996bd9589781305eacbc3fe12c11d442.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 150012,
     "name": "Jerbear ",
     "describe": "sent Jerbear",
@@ -17453,19 +17245,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776576856841_0.cf2b4264aabb9d3277b2d9630a27079d.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 31005,
-    "name": "Hobbs Beanie",
-    "describe": "sent Hobbs Beanie",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1767843883115_0.3ab8286f2e3b684b2b27250dbed15ee2.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -17674,19 +17453,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776053034308_1.d0b812223acaceb6ce71b8b8f823801b.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 63701,
-    "name": "TeriLyn",
-    "describe": "sent TeriLyn",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775796021114_1.9e754fcd5dd35fde90f38f515ab9dbf2.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -18291,19 +18057,6 @@
     "source": 2
   },
   {
-    "id": 133643,
-    "name": "HesReallyHim",
-    "describe": "sent HesReallyHim",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776232744451_0.11c98b12b28167d3f65cbffd919633c3.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 169688,
     "name": "Scareeyy Surge",
     "describe": "sent Scareeyy Surge",
@@ -18324,19 +18077,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775970394756_1.c62b43ae658d1d843df91abc19586318.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 200180,
-    "name": "Glizzrd Fam",
-    "describe": "sent Glizzrd Fam",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1780297438374_0.42f804ee820e5ae8dd622fa68497f71e.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -18876,19 +18616,6 @@
     "source": 2
   },
   {
-    "id": 195642,
-    "name": "Joey The Parrot",
-    "describe": "sent Joey The Parrot",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775673178318_0.cab4a1a6dceabdd020515f6de09d664a.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 14751,
     "name": "Beach is calling",
     "describe": "sent Beach is calling",
@@ -19169,19 +18896,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775697997271_0.a7f6ccfed667c2c147d95d9b9bbe6c1c.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 188878,
-    "name": "MasNa",
-    "describe": "sent MasNa",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776887059742_0.012ae83b65386dba2a76c45212fab708.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -19559,19 +19273,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776484314526_0.b31668a9e7c0f8f45fb7a2ee9849c816.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 85320,
-    "name": "Stella Plays",
-    "describe": "sent Stella Plays",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775768390955_0.b9078237c0660534311cc5be3fa36e14.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -20410,19 +20111,6 @@
     "source": 2
   },
   {
-    "id": 89472,
-    "name": "Uh Huh Honey",
-    "describe": "sent Uh Huh Honey",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775966084846_0.0854943a78e21ff0884deed4fdd24f8e.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 141895,
     "name": "LOVE YOU WNZLOW",
     "describe": "sent LOVE YOU WNZLOW",
@@ -20443,19 +20131,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776055541751_1.5a3e1aade1b80082973b0e5a38461345.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 205394,
-    "name": "Team Odins",
-    "describe": "sent Team Odins",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1779698023935_0.366c1be3bce0b9b0e00a2f1711d0ce36.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -21210,19 +20885,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776368955489_0.999cafa987930a43fc65dd0dfc89aee3.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 116975,
-    "name": "Mare Mafia",
-    "describe": "sent Mare Mafia",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776132454328_0.f005058f12a742ba901e94e22fb12818.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -22711,19 +22373,6 @@
     "source": 2
   },
   {
-    "id": 47565,
-    "name": "Inevitably ID",
-    "describe": "sent Inevitably ID",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1769491902728_0.df67207d4dc51187229d90e77520c307.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 177646,
     "name": "Sherman",
     "describe": "sent Sherman",
@@ -23030,32 +22679,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1767885382779_0.e226a5db41514b6d83fe0737ebf82483.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 119988,
-    "name": "croutons",
-    "describe": "sent croutons",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776518351112_0.d7a5509613ddb22f8600f2dfb64bbd7a.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 49742,
-    "name": "Soupdoggs Hound",
-    "describe": "sent Soupdoggs Hound",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1767151046665_0.b90cf04f146887266f9aa150293fca26.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -23420,19 +23043,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776045916648_1.7852e4e37cc68574e32c419a138043e8.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 127545,
-    "name": "THIS IS NOT DANI",
-    "describe": "sent THIS IS NOT DANI",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776500716928_0.57967271a121f07414fb39b2493e38ad.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -24083,19 +23693,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776051287951_0.33c3e252c36c993756f59cfc94fdec45.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 126343,
-    "name": "W Mell Bear",
-    "describe": "sent W Mell Bear",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776360753446_0.c4925fe8983d22cd6bf273b9ea4383a7.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -26039,19 +25636,6 @@
     "source": 2
   },
   {
-    "id": 154174,
-    "name": "Ghost Cult",
-    "describe": "sent Ghost Cult",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776220788923_1.56609c66950b44f6574dd48a0337a2f6.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 47045,
     "name": "Purple Sam Sneak",
     "describe": "sent Purple Sam Sneak",
@@ -26910,19 +26494,6 @@
     "source": 2
   },
   {
-    "id": 172893,
-    "name": "FTV ",
-    "describe": "sent FTV",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775803453712_0.67983da51550073130d3380c1639cff7.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 176197,
     "name": "RODRIGO",
     "describe": "sent RODRIGO",
@@ -27112,19 +26683,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776134195549_0.429449d8a74ad75f2dac7b4e85840088.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 188142,
-    "name": "booty",
-    "describe": "sent booty",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775805279755_0.aa410521ccb907f0d867dc6a86684d1b.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -27703,19 +27261,6 @@
     "source": 2
   },
   {
-    "id": 141416,
-    "name": "DubTag",
-    "describe": "sent DubTag",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776611855157_1.5a3be73720e0374e38220adc207c6686.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 100776,
     "name": "The Underdog",
     "describe": "sent The Underdog",
@@ -28269,19 +27814,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1767891596567_0.d58b1749fc671566ea86e78dfa32e568.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 187833,
-    "name": "hails",
-    "describe": "sent hails",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776420178541_0.be9aff94dfca3f987852c40ca84b19a3.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -29796,19 +29328,6 @@
     "source": 2
   },
   {
-    "id": 79889,
-    "name": "Toxic Trio",
-    "describe": "sent Toxic Trio",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775821748532_0.42b9ec8c98e96c12732dfcad6cf5e9fc.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 23486,
     "name": "Chocolate City",
     "describe": "sent Chocolate City",
@@ -30329,19 +29848,6 @@
     "source": 2
   },
   {
-    "id": 30346,
-    "name": "Bapxz Hoodie",
-    "describe": "sent Bapxz Hoodie",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1767890976142_0.757b99468960d8a37ef0f62547bce376.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 172603,
     "name": "TOXICA ",
     "describe": "sent TOXICA",
@@ -30544,19 +30050,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776132385255_0.936095027dd46f1f0819a5e2a35c9cd0.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 26093,
-    "name": "Dove Dynasty",
-    "describe": "sent Dove Dynasty",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768325046868_0.e1759a01000d52896131106ea9a87a08.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -30986,19 +30479,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1767703624438_0.5c587e70014c010ec47efc77806877e6.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 19656,
-    "name": "Diabolical Derek",
-    "describe": "sent Diabolical Derek",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1767802639909_0.b130e78716cd61296bf3a77fd0ffa90e.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -32331,19 +31811,6 @@
     "source": 2
   },
   {
-    "id": 142786,
-    "name": "Chopper Pulse",
-    "describe": "sent Chopper Pulse",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776045580760_0.7969317789720d2fd394bf73668fc3a2.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 206118,
     "name": "Zuityy Heart",
     "describe": "sent Zuityy Heart",
@@ -32513,19 +31980,6 @@
     "source": 2
   },
   {
-    "id": 164791,
-    "name": "Indica Fam ",
-    "describe": "sent Indica Fam",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776751756038_0.ff197f7ba4abc0139522675b6efb1016.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 206071,
     "name": "Tabz Coin",
     "describe": "sent Tabz Coin",
@@ -32637,19 +32091,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776504198684_1.6b908b0c72cd8104bb2c3058274c22bd.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 142094,
-    "name": "Pajarito KR",
-    "describe": "sent Pajarito KR",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776466196511_0.b10274b567da362be949a220cd75ba29.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -33391,19 +32832,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776744554560_1.4cd7dea34b5cb74db524f094179f4c33.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 175327,
-    "name": "MAD DAD",
-    "describe": "sent MAD DAD",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775660038154_1.3f570f1dac78472bac2f23aec9afe2c1.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -34658,19 +34086,6 @@
     "source": 2
   },
   {
-    "id": 109455,
-    "name": "Maxtro ",
-    "describe": "sent Maxtro",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776134748628_1.b717ef2eb9036fd531b77f793c835069.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 108422,
     "name": "Yericka",
     "describe": "sent Yericka",
@@ -34892,19 +34307,6 @@
     "source": 2
   },
   {
-    "id": 63835,
-    "name": "Teddy Cruise",
-    "describe": "sent Teddy Cruise",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775659354031_0.7294c942459c1897e64d41f8584e8fdd.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 20319,
     "name": "NextLevel DNA",
     "describe": "sent NextLevel DNA",
@@ -34925,19 +34327,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768443576683_0.f64a6fc980db1f74fcbe2498eb49a8b6.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 122956,
-    "name": "OGCrockett",
-    "describe": "sent OGCrockett",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776616022461_0.bd3e1bc051ce043e3b9a4ed1b2e81798.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -35633,19 +35022,6 @@
     "source": 2
   },
   {
-    "id": 203090,
-    "name": "Mello Bolt",
-    "describe": "sent Mello Bolt",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776809098373_1.d8b4c11a054355ec0a68c7b3f2ba455c.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 190459,
     "name": "Gok Gok",
     "describe": "sent Gok Gok",
@@ -35653,45 +35029,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776738090132_0.11385cb457ba0f0599e858166ade5e51.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 104513,
-    "name": "Man of steel ",
-    "describe": "sent Man of steel",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776133122684_1.53b47d522fbac013e509866f632ed978.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 177173,
-    "name": "Rello Reach",
-    "describe": "sent Rello Reach",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775663919105_0.cc38561258b530633af5fc2509058732.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 44055,
-    "name": "Tom Cat Cap",
-    "describe": "sent Tom Cat Cap",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768327020319_0.00b47be3bcc09abc1dae0fe28636e0c9.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -35809,19 +35146,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775650711040_0.fccd7fbdb538aa52254e925d0da63e1b.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 177729,
-    "name": "Shak Stance",
-    "describe": "sent Shak Stance",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775669401323_0.81b59aefe96c20e34ce6eba1b7bcd113.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -35952,19 +35276,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1767928128761_0.b9d72b24dca1c26f65fb9680ebcdaf92.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 99322,
-    "name": "Rezisterrr",
-    "describe": "sent Rezisterrr",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776195280045_0.1c3cc8dc2648844f8feeb68082c25884.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -36192,19 +35503,6 @@
     "source": 2
   },
   {
-    "id": 123727,
-    "name": "BlaXe Gng",
-    "describe": "sent BlaXe Gng",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776045837844_0.0d1b1ddd73756429b4fe972cd703732d.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 40080,
     "name": "Laughing Gamer",
     "describe": "sent Laughing Gamer",
@@ -36355,19 +35653,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776135777685_0.d35e5cf9b41d862deed38094ea507880.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 204837,
-    "name": "Hooked DJ Jordan",
-    "describe": "sent Hooked DJ Jordan",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1779712425262_0.bec8a75c6a79aaf964da3424a5d195f6.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -36933,19 +36218,6 @@
     "source": 2
   },
   {
-    "id": 177353,
-    "name": "Rockothecoolest",
-    "describe": "sent Rockothecoolest",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776854776464_0.8636319b09a3f2faf0c8d38b31452259.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 144738,
     "name": "HeartBolt ",
     "describe": "sent HeartBolt",
@@ -37115,19 +36387,6 @@
     "source": 2
   },
   {
-    "id": 138030,
-    "name": "the wabby",
-    "describe": "sent the wabby",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776312050017_1.47c6054aa88f177de9400aebbafcd277.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 171656,
     "name": "Big Mo Energy",
     "describe": "sent Big Mo Energy",
@@ -37135,19 +36394,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775713159106_0.48ac66d7478a448b136088de5c4a790f.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 63188,
-    "name": "Leopard Queen",
-    "describe": "sent Leopard Queen",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775684179537_1.0f87f161998166de25e16dd0f27368c5.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -37291,19 +36537,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776774942894_1.0b75dbf24a67947791c85ea6a9d48aa6.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 65143,
-    "name": "Amayesin Build",
-    "describe": "sent Amayesin Build",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775802674336_1.3a73cd50bea19b5d5b94f8b0cf5aba79.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -37486,19 +36719,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775687951206_1.37f3792107c417ffaa626188fa782b94.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 155490,
-    "name": "FLANK LOVE",
-    "describe": "sent FLANK LOVE",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775827783188_0.e07648accfc22f3da5dcde2aabbf8341.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -38168,19 +37388,6 @@
     "source": 2
   },
   {
-    "id": 44052,
-    "name": "GooFy Gang",
-    "describe": "sent GooFy Gang",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1767798803946_0.063271620d485949ac5514c8488ef879.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 127761,
     "name": "Blastt Off",
     "describe": "sent Blastt Off",
@@ -38292,19 +37499,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768278363420_0.331cf9ed338f013706071b798ec3333c.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 140400,
-    "name": "Marii Nation",
-    "describe": "sent Marii Nation",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775727829698_1.62d989adadf1586c09df041c26d3c75b.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -38500,32 +37694,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775781402998_0.aaf2ab808f2fc8e3d2fd8471ac60d656.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 33864,
-    "name": "Sweetz Shades",
-    "describe": "sent Sweetz Shades",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1769408279770_0.47acced450d0bb9f5bb797fe589a9bf8.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 64081,
-    "name": "Time Out Cell",
-    "describe": "sent Time Out Cell",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775729191807_0.99955b43537db3df2106d394979adbdf.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -38974,19 +38142,6 @@
     "source": 2
   },
   {
-    "id": 140456,
-    "name": "Weenies",
-    "describe": "sent Weenies",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776416560858_0.e9a2dd78eb81fc7057f56297ab064963.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 40345,
     "name": "Mommy Butterfly",
     "describe": "sent Mommy Butterfly",
@@ -38994,19 +38149,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1767922114126_0.c14fa10dd3faf64b87ade023e355b726.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 63411,
-    "name": "BeeKeepers Buzz",
-    "describe": "sent BeeKeepers Buzz",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775737616927_1.0daa37fdd062ce2db98d78869cc07bdb.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -39234,32 +38376,6 @@
     "source": 2
   },
   {
-    "id": 142087,
-    "name": "OakandLei",
-    "describe": "sent OakandLei",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775749522408_0.e79d04468c0dadeb82bbd9a62666295a.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 182567,
-    "name": "Teamrel Toss",
-    "describe": "sent Teamrel Toss",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775655849031_0.95f3ada4abb253c9d928f09f7675d7ee.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 178588,
     "name": "Mixi Charge",
     "describe": "sent Mixi Charge",
@@ -39351,19 +38467,6 @@
     "source": 2
   },
   {
-    "id": 205223,
-    "name": "LuLu Circuit",
-    "describe": "sent LuLu Circuit",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775768658089_0.78a37d02d8baf4a2c152964a1f2d340f.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 100542,
     "name": "Blamfam",
     "describe": "sent Blamfam",
@@ -39384,19 +38487,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776080961895_1.b25dfe3ba063d27cb3d48653e4396460.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 167929,
-    "name": "Pats Pack",
-    "describe": "sent Pats Pack",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775911427673_0.78a28b81ba5ae00fcc2d6445baa7a52e.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -39559,32 +38649,6 @@
     "source": 2
   },
   {
-    "id": 125826,
-    "name": "drippyxdino",
-    "describe": "sent drippyxdino",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776430203416_1.4a04eb37221d67a83c9800523fc5d100.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 79798,
-    "name": "Howling Coyote",
-    "describe": "sent Howling Coyote",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775833274789_0.a5e8c035656afe1ccfa472e0a7ad2c56.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 45802,
     "name": "Cerezita Rosa",
     "describe": "sent Cerezita Rosa",
@@ -39644,19 +38708,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776136230128_0.79a520097d2bf2764672bbf010f4319d.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 24733,
-    "name": "Yoder Bass",
-    "describe": "sent Yoder Bass",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1769499306613_0.95f5222ec212bcb40661afb84c7ad67a.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -39793,19 +38844,6 @@
     "source": 2
   },
   {
-    "id": 179172,
-    "name": "Ram Crest",
-    "describe": "sent Ram Crest",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775810336223_1.693573b5b5d9b716668a2de729f05d98.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 170916,
     "name": "King Xavier",
     "describe": "sent King Xavier",
@@ -39852,19 +38890,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1767736910578_0.cb2ad34e22424307457e8552b4175ccd.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 144569,
-    "name": "Cluck",
-    "describe": "sent Cluck",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776205249437_0.3f8de4c928ca17f4e0a339d5d8ec8057.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -40352,19 +39377,6 @@
     "source": 2
   },
   {
-    "id": 204561,
-    "name": "Global Reach",
-    "describe": "sent Global Reach",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1779696298087_0.74aeb8aa0a7bbf1905442ab40ca11a4d.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 34752,
     "name": "Stophating Heat",
     "describe": "sent Stophating Heat",
@@ -40476,19 +39488,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1779694385611_1.5264cc9594eccc88737318ff55eba7b5.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 186032,
-    "name": "Hey Jay",
-    "describe": "sent Hey Jay",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775870834706_0.71b07cac53411612ea05d93741669649.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -40781,19 +39780,6 @@
     "source": 2
   },
   {
-    "id": 159082,
-    "name": "Ceces besties ",
-    "describe": "sent Ceces besties",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776046017751_0.7396f153188b12c04267dd8c93a7a14f.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 140181,
     "name": "SpookyFam Boo",
     "describe": "sent SpookyFam Boo",
@@ -40976,32 +39962,6 @@
     "source": 2
   },
   {
-    "id": 116183,
-    "name": "Horde Cleaver",
-    "describe": "sent Horde Cleaver",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776494347450_0.bb371c3dc19e921a35aa0cab4bbf2b52.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 32798,
-    "name": "Uncle Jimi Teal",
-    "describe": "sent Uncle Jimi Teal",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768395403508_0.10e0290bb4613d265b4ef41249a2dd26.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 149742,
     "name": "Spooky Ghost",
     "describe": "sent Spooky Ghost",
@@ -41022,19 +39982,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776598068803_1.370985818a7a60a48202ba190e09c0ba.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 114859,
-    "name": "F4 Heart ",
-    "describe": "sent F4 Heart",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776415642082_1.f4c4250994dfcdc6c76736fc74259314.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -41288,19 +40235,6 @@
     "source": 2
   },
   {
-    "id": 198088,
-    "name": "Party Tazzy",
-    "describe": "sent Party Tazzy",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776874723387_1.1de1259c9be997e921536ed32acfb3ec.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 109576,
     "name": "Becca Bloom",
     "describe": "sent Becca Bloom",
@@ -41522,19 +40456,6 @@
     "source": 2
   },
   {
-    "id": 31685,
-    "name": "Pink Princess",
-    "describe": "sent Pink Princess",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1767707359502_0.ad4a6ece6304231071ff0d0e5f9f292e.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 32959,
     "name": "Nova Cube",
     "describe": "sent Nova Cube",
@@ -41581,19 +40502,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775703234851_0.5de342775ee93b455668463f274dcc18.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 172380,
-    "name": "𝐫𝐢𝐬𝐞",
-    "describe": "sent 𝐫𝐢𝐬𝐞",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775791360832_1.7d3e53ac8742780015b6711c005d0e27.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -42211,19 +41119,6 @@
     "source": 2
   },
   {
-    "id": 137077,
-    "name": "GOAT FAM",
-    "describe": "sent GOAT FAM",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775952576522_1.f0d82e9c9face9db9038dddf79cbe893.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 88030,
     "name": "Purple Rachie",
     "describe": "sent Purple Rachie",
@@ -42536,19 +41431,6 @@
     "source": 2
   },
   {
-    "id": 48155,
-    "name": "Risa Contagiosa",
-    "describe": "sent Risa Contagiosa",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768284013342_0.8599102902f835f01975efc952b912ee.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 95885,
     "name": "Chili Pop",
     "describe": "sent Chili Pop",
@@ -42679,19 +41561,6 @@
     "source": 2
   },
   {
-    "id": 122799,
-    "name": "Pcats Marcy",
-    "describe": "sent Pcats Marcy",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776523067209_0.9a4de2d0a3b2cc12b88074b06e147ff8.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 36628,
     "name": "Cooked Jerry",
     "describe": "sent Cooked Jerry",
@@ -42816,19 +41685,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775873706793_1.4a7e9ab935ad7414e8a3f4aa16644fe0.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 205211,
-    "name": "Monty Shades",
-    "describe": "sent Monty Shades",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1779700594616_0.d09f7694867ab1c56c8441d832d07be7.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -43602,19 +42458,6 @@
     "source": 2
   },
   {
-    "id": 81787,
-    "name": "Blue Aris",
-    "describe": "sent Blue Aris",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776047276655_0.17f3f6b6fe6a1f07faadd79949d2a07c.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 109931,
     "name": "Torie",
     "describe": "sent Torie",
@@ -44077,19 +42920,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775675060345_0.47391d5781718276e5f6dca8c7b380a3.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 113850,
-    "name": "Army Salute",
-    "describe": "sent Army Salute",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776201066026_0.2d00401e7cb5a843694362da463ea235.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -44590,19 +43420,6 @@
     "source": 2
   },
   {
-    "id": 176250,
-    "name": "Boostin Charm",
-    "describe": "sent Boostin Charm",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775654586012_1.10aac642ce0e64b72bb6e128de59119d.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 41277,
     "name": "Luna Wolfe",
     "describe": "sent Luna Wolfe",
@@ -44720,19 +43537,6 @@
     "source": 2
   },
   {
-    "id": 171999,
-    "name": "AZRtm",
-    "describe": "sent AZRtm",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776052314474_0.84ee594cdc31043c11c2ba68032839bd.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 172387,
     "name": "KitKat",
     "describe": "sent KitKat",
@@ -44766,19 +43570,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776429171105_1.1158cc875d6d5e3a81bf500854bef3eb.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 122965,
-    "name": "QB",
-    "describe": "sent QB",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776501980269_0.7241180aaf4260958fcbc5f5ff2c9bcd.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -45370,19 +44161,6 @@
     "source": 2
   },
   {
-    "id": 24398,
-    "name": "Calia Peach",
-    "describe": "sent Calia Peach",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768100482704_0.4221d7cc336d5d9bab739fc428ed0135.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 117243,
     "name": "Rickitos Rest",
     "describe": "sent Rickitos Rest",
@@ -45682,19 +44460,6 @@
     "source": 2
   },
   {
-    "id": 23432,
-    "name": "brandi Shades",
-    "describe": "sent brandi Shades",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768326357739_0.2c4521b6f28181d6dff5884f7adceda1.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 139487,
     "name": "Baby Dawg",
     "describe": "sent Baby Dawg",
@@ -45754,19 +44519,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776134469099_0.54d8f76f48f4b798b54f099ff363a025.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 96934,
-    "name": "Nerdi Toast",
-    "describe": "sent Nerdi Toast",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775741902159_1.a559c9efb5c550eec7d553f560a1f372.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -45942,19 +44694,6 @@
     "source": 2
   },
   {
-    "id": 177091,
-    "name": "Smooth Operators",
-    "describe": "sent Smooth Operators",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776187158458_0.2bd178e6eea679d74814e1a1e7d546ad.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 25897,
     "name": "Hel Ye Grin",
     "describe": "sent Hel Ye Grin",
@@ -45962,19 +44701,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1767905044071_0.02d400dbc2b1fde53fb1554d76779723.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 20559,
-    "name": "Bossman Mask",
-    "describe": "sent Bossman Mask",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768328174420_0.6ad6cdea6b24da3c0297d39a7698888f.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -46345,19 +45071,6 @@
     "source": 2
   },
   {
-    "id": 108799,
-    "name": "Athenian Rebel",
-    "describe": "sent Athenian Rebel",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776359320370_0.ae596cf94c15f969d803bd08d57e2bf2.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 43229,
     "name": "Thewaves Surf",
     "describe": "sent Thewaves Surf",
@@ -46378,19 +45091,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776080638619_0.36f526a99d347447a2feed7f46f0d18b.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 192387,
-    "name": "Downbad Tido",
-    "describe": "sent Downbad Tido",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776681719038_1.f779986aa604ebb356f90be535e01a0c.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -46456,19 +45156,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776424503762_0.13b0245c78b2e2940dcfb47b075909d1.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 119278,
-    "name": "CJ Tag",
-    "describe": "sent CJ Tag",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776514813311_0.4cb01b1da28673a6827d18bdf7271348.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -46878,19 +45565,6 @@
     "source": 2
   },
   {
-    "id": 116432,
-    "name": "Hes DryCr1tiKal ",
-    "describe": "sent Hes DryCr1tiKal",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776431051466_1.aa5f2e70ea6f2421bc1317efb1d8951e.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 64260,
     "name": "Wolfpack",
     "describe": "sent Wolfpack",
@@ -47138,19 +45812,6 @@
     "source": 2
   },
   {
-    "id": 190608,
-    "name": "Arañita",
-    "describe": "sent Arañita",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776864542661_0.217bf44957fea37ec1c0dd65f1d59cdc.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 184571,
     "name": "Donut Grin",
     "describe": "sent Donut Grin",
@@ -47301,19 +45962,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775668342890_0.d9bfad279fe1970fdfd3674e7f794e91.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 94833,
-    "name": "Frzn Paw Tap",
-    "describe": "sent Frzn Paw Tap",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776049956963_0.f538fe7bb4a0c4265e36a82263d039fd.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -47619,19 +46267,6 @@
     "source": 2
   },
   {
-    "id": 133072,
-    "name": "BeYouFam BOOST",
-    "describe": "sent BeYouFam BOOST",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776183669854_1.933653bec2e7873b5d6a3c581110e2b1.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 209684,
     "name": "Laney Bloom",
     "describe": "sent Laney Bloom",
@@ -47743,19 +46378,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1769548830652_0.d6de4d6d1d53c324d763db4ce6c16c95.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 162463,
-    "name": "Coach K ",
-    "describe": "sent Coach K",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776636649721_0.b85b10101d6c57561d77c3f07fe32081.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -48087,19 +46709,6 @@
     "source": 2
   },
   {
-    "id": 21405,
-    "name": "Chief Doberman",
-    "describe": "sent Chief Doberman",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768460637360_0.1e61ef6fe318d60c97d81e7b932c97bf.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 149979,
     "name": "Woobies Cheer",
     "describe": "sent Woobies Cheer",
@@ -48185,19 +46794,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775875043770_0.fa33a2261c8fa7578baef37a71b41bcc.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 181190,
-    "name": "BlackSheep FAM",
-    "describe": "sent BlackSheep FAM",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775863588812_1.cb2f72ac4b96a3a2a55e93017c6bb4bf.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -48594,19 +47190,6 @@
     "source": 2
   },
   {
-    "id": 137657,
-    "name": "D F  TEAM",
-    "describe": "sent D F  TEAM",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776426888924_0.ffbfbe3512fb103ae81daeb8f3086878.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 197270,
     "name": "Lefty Charge",
     "describe": "sent Lefty Charge",
@@ -48919,19 +47502,6 @@
     "source": 2
   },
   {
-    "id": 173369,
-    "name": "4Lifers",
-    "describe": "sent 4Lifers",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776404218227_0.273f3b93241ee4447a5fe38677fe348b.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 180336,
     "name": "TEAM KELZ ",
     "describe": "sent TEAM KELZ",
@@ -49218,19 +47788,6 @@
     "source": 2
   },
   {
-    "id": 26136,
-    "name": "90s Boots",
-    "describe": "sent 90s Boots",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1767876133345_0.6c6310d103be723ad7e1c7496417c94e.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 182921,
     "name": "ANONYMUZ H1",
     "describe": "sent ANONYMUZ H1",
@@ -49251,19 +47808,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775677440231_1.229a914bec5332be05d6a6d1aba92421.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 20698,
-    "name": "Playful Glance",
-    "describe": "sent Playful Glance",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768330485352_0.e38fcc4e8064ee06c42d53a3c148b3d8.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -49647,32 +48191,6 @@
     "source": 2
   },
   {
-    "id": 179753,
-    "name": "Drew Krew",
-    "describe": "sent Drew Krew",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776829826965_1.1e62953b1d0a24f5c346e2db049d08f7.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 20294,
-    "name": "Srt.inc Hoodie",
-    "describe": "sent Srt.inc Hoodie",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1767743252321_0.196c4615c25403718a337f98cf50f360.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 90016,
     "name": "ZZZ",
     "describe": "sent ZZZ",
@@ -49946,19 +48464,6 @@
     "source": 2
   },
   {
-    "id": 171948,
-    "name": "Blazed Heart ",
-    "describe": "sent Blazed Heart",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776135930278_0.bd316d648e4103dbfafc3566489826cc.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 146051,
     "name": "The WolfPack",
     "describe": "sent The WolfPack",
@@ -49992,19 +48497,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775662634998_0.068f069462b1ca7eb107cee33787804b.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 171184,
-    "name": "My Wrld Drip",
-    "describe": "sent My Wrld Drip",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775709257135_0.0d66d656f1e061777486444f4d3ed9f1.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -50596,19 +49088,6 @@
     "source": 2
   },
   {
-    "id": 38496,
-    "name": "Queen Rita",
-    "describe": "sent Queen Rita",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768336678155_0.f4d556efcb0269cdf27582f5d730307d.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 200676,
     "name": "Adam On Air",
     "describe": "sent Adam On Air",
@@ -50681,19 +49160,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775677554141_0.9120e878f61a10e9e17ad8a72efab5d1.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 199215,
-    "name": "Order Up Zekurie",
-    "describe": "sent Order Up Zekurie",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1779700409260_0.f7fda21ff6d25696b564385bdeb680fa.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -50798,19 +49264,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776046222806_0.acd533f760ad0e71df083971751d6414.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 101674,
-    "name": "Blue Twin",
-    "describe": "sent Blue Twin",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776300890576_1.3e10b1d39c4368ae98a23671217c7d6e.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -51103,19 +49556,6 @@
     "source": 2
   },
   {
-    "id": 172140,
-    "name": "Blanket B",
-    "describe": "sent Blanket B",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775820433187_0.0149c58e4459ff984ba98ca011296091.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 181333,
     "name": "RZE Drop",
     "describe": "sent RZE Drop",
@@ -51201,19 +49641,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775763387951_1.44befb905b4ef62813250f552dc4117f.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 196255,
-    "name": "CrazyVJ",
-    "describe": "sent CrazyVJ",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775797987270_1.bad3f0d5cc4098fce6d9e7ba2477495b.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -51714,19 +50141,6 @@
     "source": 2
   },
   {
-    "id": 93291,
-    "name": "Bethany Bloom",
-    "describe": "sent Bethany Bloom",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775825587179_0.e1a803466b98af08d4a49bbab46839d6.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 168473,
     "name": "NerdMo",
     "describe": "sent NerdMo",
@@ -51818,19 +50232,6 @@
     "source": 2
   },
   {
-    "id": 120883,
-    "name": "aydri3ncomeup",
-    "describe": "sent aydri3ncomeup",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776595444509_1.3d3573135706007aa97fad9052e913f5.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 99991,
     "name": "Cryptic Crew ",
     "describe": "sent Cryptic Crew",
@@ -51877,19 +50278,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776769383965_0.4cb2ada9b17273b6d0c9f9d57f4d477f.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 142158,
-    "name": "Cereal Flex",
-    "describe": "sent Cereal Flex",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776047094834_1.c41e4e97300fbe6294224dbef036cc16.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -52156,19 +50544,6 @@
     "source": 2
   },
   {
-    "id": 169713,
-    "name": "Jocelyn Flutter",
-    "describe": "sent Jocelyn Flutter",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776049348152_1.cff9af4c54587bd8553ae3050ea87d72.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 91413,
     "name": "b bow coin",
     "describe": "sent b bow coin",
@@ -52319,19 +50694,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776201898425_0.3c7e6b58ff62e4c8bbdccc1e1bc774ed.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 23524,
-    "name": "Adrian Army",
-    "describe": "sent Adrian Army",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768410772796_0.456ddbdbc4245e46ed91d945d77d9d9c.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -53105,19 +51467,6 @@
     "source": 2
   },
   {
-    "id": 98313,
-    "name": "FAH Catnap",
-    "describe": "sent FAH Catnap",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776047320105_0.e1cd364fa2e77c5e8ae0bc9a65385d0a.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 100118,
     "name": "Nate Dawgs",
     "describe": "sent Nate Dawgs",
@@ -53320,19 +51669,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775858954832_0.2e456dc20206124a4e8f9504619c53cc.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 98749,
-    "name": "BNEL GOON",
-    "describe": "sent BNEL GOON",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775726049064_0.eb89335f00cabe1e833732bec1dfa022.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -53820,19 +52156,6 @@
     "source": 2
   },
   {
-    "id": 169437,
-    "name": "GoatFam",
-    "describe": "sent GoatFam",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775899304516_0.c6c1d5d86a986620c869d7d136dff69b.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 39898,
     "name": "Swangin Smile",
     "describe": "sent Swangin Smile",
@@ -53866,19 +52189,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1779703512856_0.96fe972aae85a99f7f3e5057827879a6.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 20643,
-    "name": "Tony Arch",
-    "describe": "sent Tony Arch",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1767791129384_0.7329c21f05d595eeba5e329eaf7b361a.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -54438,19 +52748,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776047809635_0.a1ef5668696393f5961429e3b34bfbf9.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 128568,
-    "name": "Danii Flex",
-    "describe": "sent Danii Flex",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776525797171_1.eaf9e093fcf878e41c61a1ab9319d6f9.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -55530,19 +53827,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776369110735_1.3a80964d4bcfcede74f3d958fb5c81ce.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 114293,
-    "name": "Daddystop",
-    "describe": "sent Daddystop",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775784022359_0.8f64597a240828185e30a44324c19a57.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -57005,19 +55289,6 @@
     "source": 2
   },
   {
-    "id": 201202,
-    "name": "noemi",
-    "describe": "sent noemi",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1779702872567_0.69e9b91deb54af6c4071801951288676.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 138354,
     "name": " Get Comfy ",
     "describe": "sent  Get Comfy",
@@ -57473,19 +55744,6 @@
     "source": 2
   },
   {
-    "id": 194395,
-    "name": "Pato Mua",
-    "describe": "sent Pato Mua",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776907393538_0.fa753f539968f56c414e1b64fbe52b53.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 146796,
     "name": "STUCKEY",
     "describe": "sent STUCKEY",
@@ -57701,19 +55959,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/3068d68d-c466-4c99-9de1-78bf299cacb4.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 141547,
-    "name": "Mitten Wave",
-    "describe": "sent Mitten Wave",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776136097018_0.2b6ef36d0a457a040317687e6cfd7a87.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -58851,19 +57096,6 @@
     "source": 2
   },
   {
-    "id": 172156,
-    "name": "Smirks ",
-    "describe": "sent Smirks",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775793965424_0.a4959df18a27b0fa674a5c56f420fe69.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 101045,
     "name": "cj community ",
     "describe": "sent cj community",
@@ -59066,19 +57298,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775656815084_1.21573a70b23e04728270aa3d9735c611.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 116047,
-    "name": "Race Ready",
-    "describe": "sent Race Ready",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776300461821_0.56fea40b55e5a4ff1c5995ffa99d27c7.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -59683,19 +57902,6 @@
     "source": 2
   },
   {
-    "id": 74337,
-    "name": "Func Fam",
-    "describe": "sent Func Fam",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775725018118_0.dd3301406715875ebeee4663b7adb9ad.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 150152,
     "name": "Angel Flutter",
     "describe": "sent Angel Flutter",
@@ -60086,19 +58292,6 @@
     "source": 2
   },
   {
-    "id": 171406,
-    "name": "Yappers",
-    "describe": "sent Yappers",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775703556856_0.d5fc1d50376c51731ed2600d36fac12a.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 39585,
     "name": "Pink Drifter",
     "describe": "sent Pink Drifter",
@@ -60340,19 +58533,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768206768520_0.a1fc894b00ed4b8b057aadd25f7ed5ce.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 32957,
-    "name": "Jfam Goat",
-    "describe": "sent Jfam Goat",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1767933517558_0.78881e73d01b3a62893bc0bbebfc869b.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -60840,19 +59020,6 @@
     "source": 2
   },
   {
-    "id": 141233,
-    "name": "Family Goose",
-    "describe": "sent Family Goose",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776432980770_0.39790b97ac0cc47697559bc505186544.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 205302,
     "name": "CGIP CHARGE",
     "describe": "sent CGIP CHARGE",
@@ -60938,19 +59105,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775899252170_0.a793bb50e4013489413c24918f4c5ad2.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 19998,
-    "name": "Qro Nation",
-    "describe": "sent Qro Nation",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1769392851764_0.951b9d82d0ac69675ae55681d8fa6701.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -61084,19 +59238,6 @@
       ]
     },
     "type": 1,
-    "source": 2
-  },
-  {
-    "id": 8268,
-    "name": "Good Night",
-    "describe": "sent Good Night",
-    "diamond_count": 399,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/b7b55087141bd5f965eb31a99a5f157b~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
     "source": 2
   },
   {
@@ -62322,6 +60463,19 @@
     "source": 2
   },
   {
+    "id": 128568,
+    "name": "Danii Flex",
+    "describe": "sent Danii Flex",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776525797171_1.eaf9e093fcf878e41c61a1ab9319d6f9.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
     "id": 142331,
     "name": "Deniers",
     "describe": "sent Deniers",
@@ -62946,19 +61100,6 @@
     "source": 2
   },
   {
-    "id": 118396,
-    "name": "Jungle Broadcast",
-    "describe": "sent Jungle Broadcast",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776515678266_0.b3a00991a36ab5b281926b5bf541dca6.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 188891,
     "name": "Yeeworld Crown",
     "describe": "sent Yeeworld Crown",
@@ -63388,19 +61529,6 @@
     "source": 2
   },
   {
-    "id": 12988,
-    "name": "Super GG",
-    "describe": "sent Super GG",
-    "diamond_count": 100,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/cbd7588c53ec3df1af0ed6d041566362.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 2
-  },
-  {
     "id": 31310,
     "name": "Glub Club Kitty",
     "describe": "sent Glub Club Kitty",
@@ -63421,6 +61549,19 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775719038723_0.c7f98d7edc58ac15a1be5f81dd62003d.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 79798,
+    "name": "Howling Coyote",
+    "describe": "sent Howling Coyote",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775833274789_0.a5e8c035656afe1ccfa472e0a7ad2c56.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -63791,6 +61932,32 @@
     "source": 2
   },
   {
+    "id": 116047,
+    "name": "Race Ready",
+    "describe": "sent Race Ready",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776300461821_0.56fea40b55e5a4ff1c5995ffa99d27c7.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 141416,
+    "name": "DubTag",
+    "describe": "sent DubTag",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776611855157_1.5a3be73720e0374e38220adc207c6686.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
     "id": 201500,
     "name": "LethalLove ",
     "describe": "sent LethalLove",
@@ -63811,6 +61978,19 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776617323162_0.7d41208d0765db35c14cbb907e291c74.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 49742,
+    "name": "Soupdoggs Hound",
+    "describe": "sent Soupdoggs Hound",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1767151046665_0.b90cf04f146887266f9aa150293fca26.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -63882,6 +62062,19 @@
     "source": 2
   },
   {
+    "id": 122956,
+    "name": "OGCrockett",
+    "describe": "sent OGCrockett",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776616022461_0.bd3e1bc051ce043e3b9a4ed1b2e81798.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
     "id": 141746,
     "name": "TGA HEART",
     "describe": "sent TGA HEART",
@@ -63915,6 +62108,19 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775714499127_1.ca2e4e97caf6c65236c7f401a7f51952.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 119278,
+    "name": "CJ Tag",
+    "describe": "sent CJ Tag",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776514813311_0.4cb01b1da28673a6827d18bdf7271348.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -64038,6 +62244,32 @@
     "source": 2
   },
   {
+    "id": 175801,
+    "name": "Isaac Lean",
+    "describe": "sent Isaac Lean",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776047361220_0.994fc6c4daf2c4b4ad0b15f6dcb39250.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 175327,
+    "name": "MAD DAD",
+    "describe": "sent MAD DAD",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775660038154_1.3f570f1dac78472bac2f23aec9afe2c1.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
     "id": 121053,
     "name": "Pals Forever ",
     "describe": "sent Pals Forever",
@@ -64071,6 +62303,19 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776206952861_1.4b4661374fe2ce13648d7b413b5ce088.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 19656,
+    "name": "Diabolical Derek",
+    "describe": "sent Diabolical Derek",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1767802639909_0.b130e78716cd61296bf3a77fd0ffa90e.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -64155,6 +62400,45 @@
     "source": 2
   },
   {
+    "id": 125826,
+    "name": "drippyxdino",
+    "describe": "sent drippyxdino",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776430203416_1.4a04eb37221d67a83c9800523fc5d100.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 103673,
+    "name": "Vampy",
+    "describe": "sent Vampy",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776080221398_1.81c16c6d7754a225eb89a324d5b8c582.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 33864,
+    "name": "Sweetz Shades",
+    "describe": "sent Sweetz Shades",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1769408279770_0.47acced450d0bb9f5bb797fe589a9bf8.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
     "id": 153355,
     "name": "Chill Yapper",
     "describe": "sent Chill Yapper",
@@ -64175,6 +62459,32 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776418875320_0.8c06d3548b79eaf61be990de53d2597e.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 172893,
+    "name": "FTV ",
+    "describe": "sent FTV",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775803453712_0.67983da51550073130d3380c1639cff7.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 109455,
+    "name": "Maxtro ",
+    "describe": "sent Maxtro",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776134748628_1.b717ef2eb9036fd531b77f793c835069.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -64285,6 +62595,32 @@
     "source": 2
   },
   {
+    "id": 186032,
+    "name": "Hey Jay",
+    "describe": "sent Hey Jay",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775870834706_0.71b07cac53411612ea05d93741669649.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 167929,
+    "name": "Pats Pack",
+    "describe": "sent Pats Pack",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775911427673_0.78a28b81ba5ae00fcc2d6445baa7a52e.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
     "id": 42969,
     "name": "Isle ",
     "describe": "sent Isle",
@@ -64292,6 +62628,19 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1767963311945_0.bc400a17351d47d34b3f9a2882ca45fc.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 44052,
+    "name": "GooFy Gang",
+    "describe": "sent GooFy Gang",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1767798803946_0.063271620d485949ac5514c8488ef879.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -64324,6 +62673,45 @@
     "source": 2
   },
   {
+    "id": 31005,
+    "name": "Hobbs Beanie",
+    "describe": "sent Hobbs Beanie",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1767843883115_0.3ab8286f2e3b684b2b27250dbed15ee2.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 96934,
+    "name": "Nerdi Toast",
+    "describe": "sent Nerdi Toast",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775741902159_1.a559c9efb5c550eec7d553f560a1f372.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 31685,
+    "name": "Pink Princess",
+    "describe": "sent Pink Princess",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1767707359502_0.ad4a6ece6304231071ff0d0e5f9f292e.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
     "id": 20619,
     "name": "Sour Stress",
     "describe": "sent Sour Stress",
@@ -64331,6 +62719,32 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768371928272_0.4a42623801d7705173eb5726ee409f75.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 63188,
+    "name": "Leopard Queen",
+    "describe": "sent Leopard Queen",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775684179537_1.0f87f161998166de25e16dd0f27368c5.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 144048,
+    "name": "Bonnet Treyveon",
+    "describe": "sent Bonnet Treyveon",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776521417582_0.996bd9589781305eacbc3fe12c11d442.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -64363,6 +62777,136 @@
     "source": 2
   },
   {
+    "id": 26093,
+    "name": "Dove Dynasty",
+    "describe": "sent Dove Dynasty",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768325046868_0.e1759a01000d52896131106ea9a87a08.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 172140,
+    "name": "Blanket B",
+    "describe": "sent Blanket B",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775820433187_0.0149c58e4459ff984ba98ca011296091.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 137077,
+    "name": "GOAT FAM",
+    "describe": "sent GOAT FAM",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775952576522_1.f0d82e9c9face9db9038dddf79cbe893.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 41364,
+    "name": "Bomb Beanie",
+    "describe": "sent Bomb Beanie",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1769396136621_0.aa614db8f34dff60f0ab866668db39a1.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 129772,
+    "name": "MAX2D GAM1NG",
+    "describe": "sent MAX2D GAM1NG",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776047350754_0.a8015be6d3a197482f70f131876fcc65.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 20559,
+    "name": "Bossman Mask",
+    "describe": "sent Bossman Mask",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768328174420_0.6ad6cdea6b24da3c0297d39a7698888f.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 204561,
+    "name": "Global Reach",
+    "describe": "sent Global Reach",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1779696298087_0.74aeb8aa0a7bbf1905442ab40ca11a4d.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 122965,
+    "name": "QB",
+    "describe": "sent QB",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776501980269_0.7241180aaf4260958fcbc5f5ff2c9bcd.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 188878,
+    "name": "MasNa",
+    "describe": "sent MasNa",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776887059742_0.012ae83b65386dba2a76c45212fab708.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 141547,
+    "name": "Mitten Wave",
+    "describe": "sent Mitten Wave",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776136097018_0.2b6ef36d0a457a040317687e6cfd7a87.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
     "id": 31109,
     "name": "Pink Chancla",
     "describe": "sent Pink Chancla",
@@ -64370,6 +62914,747 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1769277550159_0.666fe07d65b3f8e5388e80bf8418455e.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 188142,
+    "name": "booty",
+    "describe": "sent booty",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775805279755_0.aa410521ccb907f0d867dc6a86684d1b.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 173369,
+    "name": "4Lifers",
+    "describe": "sent 4Lifers",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776404218227_0.273f3b93241ee4447a5fe38677fe348b.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 26136,
+    "name": "Patches and Me",
+    "describe": "sent Patches and Me",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1767876334250_0.a322fa0832bcc01b02a4dddea400f731.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 212594,
+    "name": "Good Boy",
+    "describe": "sent Good Boy",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1780301934148_0.c746f5ca89abec3c050343a714fe5a51.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 101674,
+    "name": "Blue Twin",
+    "describe": "sent Blue Twin",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776300890576_1.3e10b1d39c4368ae98a23671217c7d6e.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 140456,
+    "name": "Weenies",
+    "describe": "sent Weenies",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776416560858_0.e9a2dd78eb81fc7057f56297ab064963.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 113850,
+    "name": "Army Salute",
+    "describe": "sent Army Salute",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776201066026_0.2d00401e7cb5a843694362da463ea235.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 177353,
+    "name": "Rockothecoolest",
+    "describe": "sent Rockothecoolest",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776854776464_0.8636319b09a3f2faf0c8d38b31452259.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 179172,
+    "name": "Ram Crest",
+    "describe": "sent Ram Crest",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775810336223_1.693573b5b5d9b716668a2de729f05d98.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 172380,
+    "name": "𝐫𝐢𝐬𝐞",
+    "describe": "sent 𝐫𝐢𝐬𝐞",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775791360832_1.7d3e53ac8742780015b6711c005d0e27.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 63411,
+    "name": "BeeKeepers Buzz",
+    "describe": "sent BeeKeepers Buzz",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775737616927_1.0daa37fdd062ce2db98d78869cc07bdb.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 65143,
+    "name": "Amayesin Build",
+    "describe": "sent Amayesin Build",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775802674336_1.3a73cd50bea19b5d5b94f8b0cf5aba79.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 31413,
+    "name": "Pinkey ",
+    "describe": "sent Pinkey",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1767849725504_0.1f0cc5b3439162102dcf31afea50b088.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 205211,
+    "name": "Monty Shades",
+    "describe": "sent Monty Shades",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1779700594616_0.d09f7694867ab1c56c8441d832d07be7.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 181190,
+    "name": "BlackSheep FAM",
+    "describe": "sent BlackSheep FAM",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775863588812_1.cb2f72ac4b96a3a2a55e93017c6bb4bf.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 203090,
+    "name": "Mello Bolt",
+    "describe": "sent Mello Bolt",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776809098373_1.d8b4c11a054355ec0a68c7b3f2ba455c.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 179753,
+    "name": "Drew Krew",
+    "describe": "sent Drew Krew",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776829826965_1.1e62953b1d0a24f5c346e2db049d08f7.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 199215,
+    "name": "Order Up Zekurie",
+    "describe": "sent Order Up Zekurie",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1779700409260_0.f7fda21ff6d25696b564385bdeb680fa.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 201202,
+    "name": "noemi",
+    "describe": "sent noemi",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1779702872567_0.69e9b91deb54af6c4071801951288676.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 24398,
+    "name": "Calia Peach",
+    "describe": "sent Calia Peach",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768100482704_0.4221d7cc336d5d9bab739fc428ed0135.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 79889,
+    "name": "Toxic Trio",
+    "describe": "sent Toxic Trio",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775821748532_0.42b9ec8c98e96c12732dfcad6cf5e9fc.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 99322,
+    "name": "Rezisterrr",
+    "describe": "sent Rezisterrr",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776195280045_0.1c3cc8dc2648844f8feeb68082c25884.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 198088,
+    "name": "Party Tazzy",
+    "describe": "sent Party Tazzy",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776874723387_1.1de1259c9be997e921536ed32acfb3ec.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 120883,
+    "name": "aydri3ncomeup",
+    "describe": "sent aydri3ncomeup",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776595444509_1.3d3573135706007aa97fad9052e913f5.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 182567,
+    "name": "Teamrel Toss",
+    "describe": "sent Teamrel Toss",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775655849031_0.95f3ada4abb253c9d928f09f7675d7ee.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 142094,
+    "name": "Pajarito KR",
+    "describe": "sent Pajarito KR",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776466196511_0.b10274b567da362be949a220cd75ba29.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 21405,
+    "name": "Chief Doberman",
+    "describe": "sent Chief Doberman",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768460637360_0.1e61ef6fe318d60c97d81e7b932c97bf.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 151677,
+    "name": "Purple Flow",
+    "describe": "sent Purple Flow",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776360161742_0.04deb1abb5ea4829869722d34ef0b780.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 169437,
+    "name": "GoatFam",
+    "describe": "sent GoatFam",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775899304516_0.c6c1d5d86a986620c869d7d136dff69b.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 159082,
+    "name": "Ceces besties ",
+    "describe": "sent Ceces besties",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776046017751_0.7396f153188b12c04267dd8c93a7a14f.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 30346,
+    "name": "Bapxz Hoodie",
+    "describe": "sent Bapxz Hoodie",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1767890976142_0.757b99468960d8a37ef0f62547bce376.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 116432,
+    "name": "Hes DryCr1tiKal ",
+    "describe": "sent Hes DryCr1tiKal",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776431051466_1.aa5f2e70ea6f2421bc1317efb1d8951e.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 44055,
+    "name": "Tom Cat Cap",
+    "describe": "sent Tom Cat Cap",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768327020319_0.00b47be3bcc09abc1dae0fe28636e0c9.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 138030,
+    "name": "the wabby",
+    "describe": "sent the wabby",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776312050017_1.47c6054aa88f177de9400aebbafcd277.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 48155,
+    "name": "Risa Contagiosa",
+    "describe": "sent Risa Contagiosa",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768284013342_0.8599102902f835f01975efc952b912ee.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 176250,
+    "name": "Boostin Charm",
+    "describe": "sent Boostin Charm",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775654586012_1.10aac642ce0e64b72bb6e128de59119d.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 192387,
+    "name": "Downbad Tido",
+    "describe": "sent Downbad Tido",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776681719038_1.f779986aa604ebb356f90be535e01a0c.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 177173,
+    "name": "Rello Reach",
+    "describe": "sent Rello Reach",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775663919105_0.cc38561258b530633af5fc2509058732.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 24733,
+    "name": "Yoder Bass",
+    "describe": "sent Yoder Bass",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1769499306613_0.95f5222ec212bcb40661afb84c7ad67a.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 20643,
+    "name": "Tony Arch",
+    "describe": "sent Tony Arch",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1767791129384_0.7329c21f05d595eeba5e329eaf7b361a.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 64081,
+    "name": "Time Out Cell",
+    "describe": "sent Time Out Cell",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775729191807_0.99955b43537db3df2106d394979adbdf.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 137657,
+    "name": "D F  TEAM",
+    "describe": "sent D F  TEAM",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776426888924_0.ffbfbe3512fb103ae81daeb8f3086878.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 133643,
+    "name": "HesReallyHim",
+    "describe": "sent HesReallyHim",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776232744451_0.11c98b12b28167d3f65cbffd919633c3.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 98313,
+    "name": "FAH Catnap",
+    "describe": "sent FAH Catnap",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776047320105_0.e1cd364fa2e77c5e8ae0bc9a65385d0a.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 23432,
+    "name": "brandi Shades",
+    "describe": "sent brandi Shades",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768326357739_0.2c4521b6f28181d6dff5884f7adceda1.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 81787,
+    "name": "Blue Aris",
+    "describe": "sent Blue Aris",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776047276655_0.17f3f6b6fe6a1f07faadd79949d2a07c.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 171406,
+    "name": "Yappers",
+    "describe": "sent Yappers",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775703556856_0.d5fc1d50376c51731ed2600d36fac12a.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 171184,
+    "name": "My Wrld Drip",
+    "describe": "sent My Wrld Drip",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775709257135_0.0d66d656f1e061777486444f4d3ed9f1.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 142087,
+    "name": "OakandLei",
+    "describe": "sent OakandLei",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775749522408_0.e79d04468c0dadeb82bbd9a62666295a.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 140400,
+    "name": "Marii Nation",
+    "describe": "sent Marii Nation",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775727829698_1.62d989adadf1586c09df041c26d3c75b.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 89472,
+    "name": "Uh Huh Honey",
+    "describe": "sent Uh Huh Honey",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775966084846_0.0854943a78e21ff0884deed4fdd24f8e.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 63701,
+    "name": "TeriLyn",
+    "describe": "sent TeriLyn",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775796021114_1.9e754fcd5dd35fde90f38f515ab9dbf2.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 108799,
+    "name": "Athenian Rebel",
+    "describe": "sent Athenian Rebel",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776359320370_0.ae596cf94c15f969d803bd08d57e2bf2.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 116975,
+    "name": "Mare Mafia",
+    "describe": "sent Mare Mafia",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776132454328_0.f005058f12a742ba901e94e22fb12818.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 190608,
+    "name": "Arañita",
+    "describe": "sent Arañita",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776864542661_0.217bf44957fea37ec1c0dd65f1d59cdc.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 32798,
+    "name": "Uncle Jimi Teal",
+    "describe": "sent Uncle Jimi Teal",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768395403508_0.10e0290bb4613d265b4ef41249a2dd26.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 38496,
+    "name": "Queen Rita",
+    "describe": "sent Queen Rita",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768336678155_0.f4d556efcb0269cdf27582f5d730307d.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -64389,6 +63674,19 @@
     "source": 2
   },
   {
+    "id": 122799,
+    "name": "Pcats Marcy",
+    "describe": "sent Pcats Marcy",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776523067209_0.9a4de2d0a3b2cc12b88074b06e147ff8.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
     "id": 7569,
     "name": "Game Controller",
     "describe": "sent Game Controller",
@@ -64402,6 +63700,58 @@
     "source": 2
   },
   {
+    "id": 47565,
+    "name": "Inevitably ID",
+    "describe": "sent Inevitably ID",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1769491902728_0.df67207d4dc51187229d90e77520c307.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 172156,
+    "name": "Smirks ",
+    "describe": "sent Smirks",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775793965424_0.a4959df18a27b0fa674a5c56f420fe69.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 164791,
+    "name": "Indica Fam ",
+    "describe": "sent Indica Fam",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776751756038_0.ff197f7ba4abc0139522675b6efb1016.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 149468,
+    "name": "Cupcake Karen",
+    "describe": "sent Cupcake Karen",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776467207584_1.e20729fb75e68acc2c106127ac4ba8c4.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
     "id": 28360,
     "name": "Orange TVZ",
     "describe": "sent Orange TVZ",
@@ -64409,6 +63759,19 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768378911703_0.2dd67099c53babc0bba8ff16324ca827.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 20698,
+    "name": "Playful Glance",
+    "describe": "sent Playful Glance",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768330485352_0.e38fcc4e8064ee06c42d53a3c148b3d8.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -65582,6 +64945,19 @@
       ]
     },
     "type": 2,
+    "source": 2
+  },
+  {
+    "id": 133072,
+    "name": "BeYouFam BOOST",
+    "describe": "sent BeYouFam BOOST",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776183669854_1.933653bec2e7873b5d6a3c581110e2b1.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
     "source": 2
   },
   {
@@ -66963,6 +66339,32 @@
     "source": 2
   },
   {
+    "id": 8267,
+    "name": "Good Evening",
+    "describe": "sent Good Evening",
+    "diamond_count": 399,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/0015a756ff783f37a2cf3b5d634b3cd6~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 2
+  },
+  {
+    "id": 32957,
+    "name": "Jfam Goat",
+    "describe": "sent Jfam Goat",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1767933517558_0.78881e73d01b3a62893bc0bbebfc869b.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
     "id": 85627,
     "name": "Lizard Nutt",
     "describe": "sent Lizard Nutt",
@@ -66996,6 +66398,19 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776048117146_0.be88a0ae936e06b77e528aa6fc2db76a.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 126343,
+    "name": "W Mell Bear",
+    "describe": "sent W Mell Bear",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776360753446_0.c4925fe8983d22cd6bf273b9ea4383a7.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -67093,6 +66508,45 @@
     "source": 2
   },
   {
+    "id": 89859,
+    "name": "Gator Gains",
+    "describe": "sent Gator Gains",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775650553830_0.dc32b613de94849d5218e2567788a82a.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 123727,
+    "name": "BlaXe Gng",
+    "describe": "sent BlaXe Gng",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776045837844_0.0d1b1ddd73756429b4fe972cd703732d.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 85320,
+    "name": "Stella Plays",
+    "describe": "sent Stella Plays",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775768390955_0.b9078237c0660534311cc5be3fa36e14.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
     "id": 26302,
     "name": "Sunny Flare",
     "describe": "sent Sunny Flare",
@@ -67113,6 +66567,32 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776343399111_0.ecbb25d47efa9fd4dbeebc525643b1f2.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 20294,
+    "name": "Srt.inc Hoodie",
+    "describe": "sent Srt.inc Hoodie",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1767743252321_0.196c4615c25403718a337f98cf50f360.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 104513,
+    "name": "Man of steel ",
+    "describe": "sent Man of steel",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776133122684_1.53b47d522fbac013e509866f632ed978.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -67860,6 +67340,19 @@
     "source": 2
   },
   {
+    "id": 63835,
+    "name": "Teddy Cruise",
+    "describe": "sent Teddy Cruise",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775659354031_0.7294c942459c1897e64d41f8584e8fdd.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
     "id": 155536,
     "name": "Gupp Gupp",
     "describe": "sent Gupp Gupp",
@@ -67867,6 +67360,32 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776335636044_1.1e903e4e29d4343774cc445a734c51c5.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 171948,
+    "name": "Blazed Heart ",
+    "describe": "sent Blazed Heart",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776135930278_0.bd316d648e4103dbfafc3566489826cc.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 114293,
+    "name": "Daddystop",
+    "describe": "sent Daddystop",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775784022359_0.8f64597a240828185e30a44324c19a57.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -67899,6 +67418,71 @@
     "source": 2
   },
   {
+    "id": 200180,
+    "name": "Glizzrd Fam",
+    "describe": "sent Glizzrd Fam",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1780297438374_0.42f804ee820e5ae8dd622fa68497f71e.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 144569,
+    "name": "Cluck",
+    "describe": "sent Cluck",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776205249437_0.3f8de4c928ca17f4e0a339d5d8ec8057.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 205394,
+    "name": "Team Odins",
+    "describe": "sent Team Odins",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1779698023935_0.366c1be3bce0b9b0e00a2f1711d0ce36.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 196255,
+    "name": "CrazyVJ",
+    "describe": "sent CrazyVJ",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775797987270_1.bad3f0d5cc4098fce6d9e7ba2477495b.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 162445,
+    "name": "TJ Gameworld",
+    "describe": "sent TJ Gameworld",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776553497827_1.93c8ef510d569d3461d175f1fdf09702.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
     "id": 8266,
     "name": "Good Afternoon",
     "describe": "sent Good Afternoon",
@@ -67909,6 +67493,227 @@
       ]
     },
     "type": 2,
+    "source": 2
+  },
+  {
+    "id": 194395,
+    "name": "Pato Mua",
+    "describe": "sent Pato Mua",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776907393538_0.fa753f539968f56c414e1b64fbe52b53.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 155490,
+    "name": "FLANK LOVE",
+    "describe": "sent FLANK LOVE",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775827783188_0.e07648accfc22f3da5dcde2aabbf8341.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 142786,
+    "name": "Chopper Pulse",
+    "describe": "sent Chopper Pulse",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776045580760_0.7969317789720d2fd394bf73668fc3a2.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 162463,
+    "name": "Coach K ",
+    "describe": "sent Coach K",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776636649721_0.b85b10101d6c57561d77c3f07fe32081.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 119462,
+    "name": "Tristan Thumbs",
+    "describe": "sent Tristan Thumbs",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776050338290_0.c84c9d0c733020cdfed61863d3d65b35.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 171999,
+    "name": "AZRtm",
+    "describe": "sent AZRtm",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776052314474_0.84ee594cdc31043c11c2ba68032839bd.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 187833,
+    "name": "hails",
+    "describe": "sent hails",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776420178541_0.be9aff94dfca3f987852c40ca84b19a3.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 119988,
+    "name": "croutons",
+    "describe": "sent croutons",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776518351112_0.d7a5509613ddb22f8600f2dfb64bbd7a.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 74337,
+    "name": "Func Fam",
+    "describe": "sent Func Fam",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775725018118_0.dd3301406715875ebeee4663b7adb9ad.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 93291,
+    "name": "Bethany Bloom",
+    "describe": "sent Bethany Bloom",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775825587179_0.e1a803466b98af08d4a49bbab46839d6.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 114859,
+    "name": "F4 Heart ",
+    "describe": "sent F4 Heart",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776415642082_1.f4c4250994dfcdc6c76736fc74259314.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 94833,
+    "name": "Frzn Paw Tap",
+    "describe": "sent Frzn Paw Tap",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776049956963_0.f538fe7bb4a0c4265e36a82263d039fd.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 19998,
+    "name": "Qro Nation",
+    "describe": "sent Qro Nation",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1769392851764_0.951b9d82d0ac69675ae55681d8fa6701.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 204837,
+    "name": "Hooked DJ Jordan",
+    "describe": "sent Hooked DJ Jordan",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1779712425262_0.bec8a75c6a79aaf964da3424a5d195f6.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 205223,
+    "name": "LuLu Circuit",
+    "describe": "sent LuLu Circuit",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775768658089_0.78a37d02d8baf4a2c152964a1f2d340f.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 169713,
+    "name": "Jocelyn Flutter",
+    "describe": "sent Jocelyn Flutter",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776049348152_1.cff9af4c54587bd8553ae3050ea87d72.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 154174,
+    "name": "Ghost Cult",
+    "describe": "sent Ghost Cult",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776220788923_1.56609c66950b44f6574dd48a0337a2f6.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
     "source": 2
   },
   {
@@ -67977,6 +67782,19 @@
     "source": 2
   },
   {
+    "id": 98749,
+    "name": "BNEL GOON",
+    "describe": "sent BNEL GOON",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775726049064_0.eb89335f00cabe1e833732bec1dfa022.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
     "id": 31527,
     "name": "Rio PGN",
     "describe": "sent Rio PGN",
@@ -67984,6 +67802,19 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1769064059835_0.9dbaa700605971671af78da493988983.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 141233,
+    "name": "Family Goose",
+    "describe": "sent Family Goose",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776432980770_0.39790b97ac0cc47697559bc505186544.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -68036,6 +67867,136 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/52726bab032adfe777bf5620d9344917.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 2
+  },
+  {
+    "id": 118396,
+    "name": "Jungle Broadcast",
+    "describe": "sent Jungle Broadcast",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776515678266_0.b3a00991a36ab5b281926b5bf541dca6.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 116183,
+    "name": "Horde Cleaver",
+    "describe": "sent Horde Cleaver",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776494347450_0.bb371c3dc19e921a35aa0cab4bbf2b52.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 23524,
+    "name": "Adrian Army",
+    "describe": "sent Adrian Army",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768410772796_0.456ddbdbc4245e46ed91d945d77d9d9c.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 127545,
+    "name": "THIS IS NOT DANI",
+    "describe": "sent THIS IS NOT DANI",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776500716928_0.57967271a121f07414fb39b2493e38ad.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 176754,
+    "name": "Cryverse",
+    "describe": "sent Cryverse",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776047197363_0.f27f1329f1ccbedfb5479ba4cf9d1ce7.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 177729,
+    "name": "Shak Stance",
+    "describe": "sent Shak Stance",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775669401323_0.81b59aefe96c20e34ce6eba1b7bcd113.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 195642,
+    "name": "Joey The Parrot",
+    "describe": "sent Joey The Parrot",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775673178318_0.cab4a1a6dceabdd020515f6de09d664a.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 177091,
+    "name": "Smooth Operators",
+    "describe": "sent Smooth Operators",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776187158458_0.2bd178e6eea679d74814e1a1e7d546ad.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 142158,
+    "name": "Cereal Flex",
+    "describe": "sent Cereal Flex",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776047094834_1.c41e4e97300fbe6294224dbef036cc16.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 12988,
+    "name": "Super GG",
+    "describe": "sent Super GG",
+    "diamond_count": 100,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/cbd7588c53ec3df1af0ed6d041566362.png~tplv-obj.webp"
       ]
     },
     "type": 2,
